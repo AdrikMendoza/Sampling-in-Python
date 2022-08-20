@@ -1,6 +1,6 @@
 # Sampling in Python
 
-The goal is to figure out when to use sampling and how to perform common types of sampling—from simple random sampling to more complex methods like stratified and cluster sampling.
+The goal is to figure out when to use sampling and how to perform common types of sampling, from simple random sampling to more complex methods like stratified and cluster sampling.
 
 **Why?**
 
